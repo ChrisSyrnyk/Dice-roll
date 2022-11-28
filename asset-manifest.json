@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dice-roll/static/css/main.635c0416.css",
-    "main.js": "/dice-roll/static/js/main.5b2ef0c6.js",
-    "index.html": "/dice-roll/index.html",
-    "main.635c0416.css.map": "/dice-roll/static/css/main.635c0416.css.map",
-    "main.5b2ef0c6.js.map": "/dice-roll/static/js/main.5b2ef0c6.js.map"
+    "main.css": "/Dice-roll/static/css/main.635c0416.css",
+    "main.js": "/Dice-roll/static/js/main.5b2ef0c6.js",
+    "index.html": "/Dice-roll/index.html",
+    "main.635c0416.css.map": "/Dice-roll/static/css/main.635c0416.css.map",
+    "main.5b2ef0c6.js.map": "/Dice-roll/static/js/main.5b2ef0c6.js.map"
   },
   "entrypoints": [
     "static/css/main.635c0416.css",
