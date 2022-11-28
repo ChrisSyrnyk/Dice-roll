@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dice-roll/static/css/main.635c0416.css",
+    "main.js": "/dice-roll/static/js/main.5b2ef0c6.js",
+    "index.html": "/dice-roll/index.html",
+    "main.635c0416.css.map": "/dice-roll/static/css/main.635c0416.css.map",
+    "main.5b2ef0c6.js.map": "/dice-roll/static/js/main.5b2ef0c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.635c0416.css",
+    "static/js/main.5b2ef0c6.js"
+  ]
+}
